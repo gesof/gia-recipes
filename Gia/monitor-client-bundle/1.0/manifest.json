@@ -1,0 +1,8 @@
+{
+  "bundles": {
+    "Gia\\MonitorClientBundle\\GiaMonitorClientBundle": ["all"]
+  },
+  "env": {
+    "TEST_ENV": "testenv"
+  }
+}
