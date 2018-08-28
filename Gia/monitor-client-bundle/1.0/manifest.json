@@ -3,6 +3,6 @@
     "Gia\\MonitorClientBundle\\GiaMonitorClientBundle": ["all"]
   },
   "env": {
-    "TEST_ENV": "testenv"
+    "TEST_ENV": "test-env"
   }
 }
