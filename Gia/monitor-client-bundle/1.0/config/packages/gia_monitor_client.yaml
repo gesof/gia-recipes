@@ -1,0 +1,5 @@
+gia_monitor_client:
+  server_url: '%env(MONITOR_SERVER_URL)%'
+  callback_url: '%env(MONITOR_CALLBACK_URL)%'
+  client_label: '%env(MONITOR_CLIENT_LABEL)%'
+

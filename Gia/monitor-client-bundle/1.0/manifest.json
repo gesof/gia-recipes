@@ -2,7 +2,12 @@
   "bundles": {
     "Gia\\MonitorClientBundle\\GiaMonitorClientBundle": ["all"]
   },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  },
   "env": {
-    "TEST_ENV": "test-env"
+    "MONITOR_SERVER_URL": "",
+    "MONITOR_CALLBACK_URL": "",
+    "MONITOR_CLIENT_LABEL": ""
   }
 }
